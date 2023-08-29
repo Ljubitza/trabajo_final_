@@ -7,21 +7,43 @@ editor: visual
 
 # Trabajo final curso "Investigación reproducible en R"
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Introducción
 
-## Running Code
+"En la era actual de la investigación, la reproducibilidad juega un papel fundamental en la validación y avance del conocimiento científico. Este estudio explora la importancia de la reproducibilidad en el entorno del lenguaje de programación R, analizando enfoques y mejores prácticas para garantizar resultados confiables y verificables en la investigación."
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Resultados
 
-```{r}
-1 + 1
-```
+Existen varios paquetes que permiten que hagamos investigación reproducible en R, pero sin duda los más relevantes son rmarkdown y knitr. Ambos paquetes funcionan en conjunto cuando generamos un archivo Rmd (Rmarkdown), en el cual ocupamos al mismo tiempo texto, código de R y otros elementos para generar un documento word, pdf, página web, presentación y/o aplicación web.(fuente: https://bookdown.org/content/bc094819-6bce-4648-83a2-c015ba9ef1aa/reproducible.html)
 
-You can add options to executable code like this
+##### Lista de archivos que se puede trabajar en la investigación reproducible en R
 
-```{r}
-#| echo: false
-2 * 2
-```
+-   Redacción de textos
+-   Trabajo de tablas
+-   Insertar imagenes
+-   Códigos en R
 
-The `echo: false` option disables the printing of code (only output is displayed).
+### Modalidad de curso
+
+#### Telemático
+
+-Alumnos articipantes -alumnos oyentes
+
+##### Asistencia
+
+| Participantes | AUSENTE | PRESENTE |
+|---------------|---------|----------|
+| Alumno 1      | x       |          |
+| Alumno 2      |         | x        |
+| Alumno 3      |         | x        |
+| Alumno 4      |         | x        |
+| Alumno 5      | x       |          |
+
+: Tabla de resultados
+
+#### Presencial
+
+-   solo alumnos participante
+
+## Evalución del curso
+
+El 60% de los particpantes del curso entregaron el trabajo final y como resultado pasaron el curso.
