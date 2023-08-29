@@ -47,3 +47,16 @@ Existen varios paquetes que permiten que hagamos investigación reproducible en 
 ## Evalución del curso
 
 El 60% de los particpantes del curso entregaron el trabajo final y como resultado pasaron el curso.
+
+## Encuesta
+
+
+| Participantes | Encuestado | 
+|---------------|------------|
+| Alumno 1      |            |          
+| Alumno 2      |  x         |        
+| Alumno 3      |  x         |         
+| Alumno 4      |  x         |         
+| Alumno 5      |            |          
+
+: Tabla de resultados
